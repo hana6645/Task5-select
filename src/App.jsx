@@ -5,6 +5,7 @@ import Cart from './Cart'
 import Counter from './Counter'
 import Count from './Count'
 import Select from './Selcet'
+import Form from './Form'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
   <Counter/>
   <Count/>
   <Select/>
+  <Form/>
 
     </>
   )
